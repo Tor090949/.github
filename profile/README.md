@@ -14,7 +14,7 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 * [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 * [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
-
+https://github.com/community/.github/tree/community:ettaboyle-patch-1
 ### Additional Resources
 
 * [GitHub Feedback](https://github.com/github/feedback/discussions): Public feedback discussions & feature requests
